@@ -1,0 +1,23 @@
+.text-align-center {
+  text-align: center;
+}
+
+header {
+  width: 100vw;
+}
+
+input {
+  margin: 0.75rem;
+}
+
+#search-section {
+  border-bottom: 1rem solid black;
+}
+
+.sidebar {
+  /* display: flex;
+  flex-direction: column; */
+  width: 20vw;
+  height: 20vh;
+  margin: 1rem;
+}
